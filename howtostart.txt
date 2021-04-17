@@ -1,0 +1,2 @@
+metro bundler = npx react-native start --port=8088
+app = npx react-native run-android --port=8088
